@@ -1,2 +1,2 @@
 # Conversational-Risk-Detection-and-Alert-System-Prototype-NUS-Hack-Roll-Hackathon-2026
-Developed a chat-risk screening prototype that analyses conversations, flags risky language patterns, and triggers configurable alerts for safer digital interactions.
+This project is a chat-risk screening prototype designed to identify risky language patterns in conversations and trigger configurable alerts. It focuses on translating unstructured chat data into an interpretable risk detection system that can support safer digital interactions. The prototype can be adapted for different use cases by adjusting alert thresholds and screening logic.
